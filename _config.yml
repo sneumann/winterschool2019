@@ -20,8 +20,8 @@ address:
 telephone:
 copyright:
 
-# API settings
-google_api_key:
+# API settings https://console.developers.google.com/apis/credentials/key/283?project=winterschool2018-1513090568194
+google_api_key: AIzaSyCEWdq2iAhKsmrMI8iLjmLjMy91sUGQxo0 
 
 # Build settings
 markdown: kramdown
